@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @beginner3094
-- 👀 I’m interested in ...cyber security and python
-- 🌱 I’m currently learning ...python and Linux
+- 👋 Hi, I’m @zammad
+- 👀 I’m interested in ...Data Science & Digital Marketing
+- 🌱 I’m currently learning ...Linux and Data analyisis 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
